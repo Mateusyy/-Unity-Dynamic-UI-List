@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0476b79e2bf7d7f40bab23400b8c4ddc, type: 3}
+  m_Name: ListItemPooler
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6640845926527855186, guid: 082e21bb33a550a479036c35da6441fe, type: 3}
